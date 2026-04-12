@@ -27,3 +27,9 @@ The application runs from the command line, accepts a GitHub username as an argu
 ## run command
 ```bash
 node user_activity.js <github-username>
+```
+
+
+## Project Link
+https://roadmap.sh/projects/github-user-activity
+
